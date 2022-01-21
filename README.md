@@ -1,4 +1,4 @@
-<!-- ## Hi, I am Eli!
+<!-- 
 <div style="display: inline_block">
   <a href="https://github.com/elizeusdsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elizeusdsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/elizeusdsantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> -->
 
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Hi, I am Eli! A software enginner living in Prague, CZ.
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
