@@ -1,4 +1,3 @@
-### Hi there 👋
 # println('Hello World!')
 ![Elizeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizeusdsantos&show_icons=true&theme=transparent&hide=stars)
 
